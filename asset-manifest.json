@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yunus_movie/static/css/main.f9f083d8.css",
-    "main.js": "/yunus_movie/static/js/main.07166b61.js",
+    "main.js": "/yunus_movie/static/js/main.b97cf651.js",
     "static/js/787.18946245.chunk.js": "/yunus_movie/static/js/787.18946245.chunk.js",
     "index.html": "/yunus_movie/index.html",
     "main.f9f083d8.css.map": "/yunus_movie/static/css/main.f9f083d8.css.map",
-    "main.07166b61.js.map": "/yunus_movie/static/js/main.07166b61.js.map",
+    "main.b97cf651.js.map": "/yunus_movie/static/js/main.b97cf651.js.map",
     "787.18946245.chunk.js.map": "/yunus_movie/static/js/787.18946245.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9f083d8.css",
-    "static/js/main.07166b61.js"
+    "static/js/main.b97cf651.js"
   ]
 }
